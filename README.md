@@ -1,11 +1,11 @@
 
-# 🔱 VickyIiitp: The Venture Operating System
+# 🔱 ShivaTri : The Venture Operating System
 
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![Stack](https://img.shields.io/badge/Tech-React%20%7C%20Gemini%20AI%20%7C%20Tailwind-orange)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
-**VickyIiitp** is a next-generation, AI-driven startup accelerator and legal foresight engine. It combines advanced Generative AI with a divine, high-performance 3D interface to validate business ideas, identify market gaps, and provide concrete execution roadmaps with a focus on Indian legal compliance.
+**ShivaTri** is a next-generation, AI-driven startup accelerator and legal foresight engine. It combines advanced Generative AI with a divine, high-performance 3D interface to validate business ideas, identify market gaps, and provide concrete execution roadmaps with a focus on Indian legal compliance.
 
 ---
 
